@@ -13,8 +13,8 @@ Na versão clássica do jogo, cada linha deve conter todos os dígitos de
 Criar uma classe `Sudoku` que valide inteiros com base em três condições
 fundamentais:
 
-1.  **O número é positivo e tem exatamente *d* dígitos**\
-2.  **O maior dígito do número é *d* e o menor é 1**\
+1.  **O número é positivo e tem exatamente *d* dígitos**
+2.  **O maior dígito do número é *d* e o menor é 1**
 3.  **A soma dos dígitos é 1 + 2 + ... + d e o produto dos dígitos é 1 ×
     2 × ... × d**
 
