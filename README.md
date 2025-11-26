@@ -23,14 +23,15 @@ O método deve retornar: - `0` → se todas as condições são satisfeitas\
 
 ## 🧪 Números a testar
 
-  Número       Erro esperado
-  ------------ --------------------------------------
-  123456789    Nenhum (válido)
-  12345679     8 dígitos → falha condição 1
-  1234567893   10 dígitos → falha condição 1
-  234567892    menor dígito ≠ 1 → falha condição 2
-  123456785    maior dígito ≠ 9 → falha condição 2
-  123447789    produto incorreto → falha condição 3
+| Número      | Erro esperado                          |
+|-------------|----------------------------------------|
+| 123456789   | Nenhum (válido)                        |
+| 12345679    | 8 dígitos → falha condição 1           |
+| 1234567893  | 10 dígitos → falha condição 1          |
+| 234567892   | menor dígito ≠ 1 → falha condição 2    |
+| 123456785   | maior dígito ≠ 9 → falha condição 2    |
+| 123447789   | produto incorreto → falha condição 3   |
+
 
 ## 🖥️ Exemplo de saída esperada
 
