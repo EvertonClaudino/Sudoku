@@ -35,12 +35,12 @@ O método deve retornar: - `0` → se todas as condições são satisfeitas
 
 ## 🖥️ Exemplo de saída esperada
 
-    O numero 123456789 passou todas as condicoes verificadas.
-    O numero 12345679 nao verifica a condicao "positivo e tem 9 digitos".
-    O numero 1234567893 nao verifica a condicao "positivo e tem 9 digitos".
-    O numero 234567892 nao verifica a condicao "maior digito 9 e menor digito 1".
-    O numero 123456785 nao verifica a condicao "maior digito 9 e menor digito 1".
-    O numero 123447789 nao verifica a condicao "soma digitos 45 e produto digitos 362880".
+    O numero 123456789 PASSOU todas as condicoes verificadas.
+    O numero 12345679 NÃO verifica a condicao "positivo e tem 9 digitos".
+    O numero 1234567893 NÃO verifica a condicao "positivo e tem 9 digitos".
+    O numero 234567892 NÃO verifica a condicao "maior digito 9 e menor digito 1".
+    O numero 123456785 NÃO verifica a condicao "maior digito 9 e menor digito 1".
+    O numero 123447789 NÃO verifica a condicao "soma digitos 45 e produto digitos 362880".
 
 ## 🛠️ Estrutura Recomendada da Classe
 
