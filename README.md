@@ -18,7 +18,7 @@ fundamentais:
 3.  **A soma dos dígitos é 1 + 2 + ... + d e o produto dos dígitos é 1 ×
     2 × ... × d**
 
-O método deve retornar: - `0` → se todas as condições são satisfeitas\
+O método deve retornar: - `0` → se todas as condições são satisfeitas
 - `1`, `2` ou `3` → indicando qual condição falhou primeiro
 
 ## 🧪 Números a testar
@@ -46,9 +46,9 @@ O método deve retornar: - `0` → se todas as condições são satisfeitas\
 
 A classe `Sudoku` pode incluir:
 
--   Função para validar condições\
--   Função para extrair dígitos\
--   Função para calcular soma e produto\
+-   Função para validar condições
+-   Função para extrair dígitos
+-   Função para calcular soma e produto
 -   Método `main` para interação com o utilizador
 
 ## ▶️ Como compilar e executar
@@ -60,6 +60,6 @@ java Sudoku
 
 ## 🔍 Notas adicionais
 
--   Pode criar funções auxiliares para deixar o código mais organizado.\
--   Teste com vários números diferentes além dos obrigatórios.\
+-   Pode criar funções auxiliares para deixar o código mais organizado.
+-   Teste com vários números diferentes além dos obrigatórios.
 -   Lembre-se: números inteiros não podem ter zeros à esquerda.
