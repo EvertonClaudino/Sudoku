@@ -1,4 +1,4 @@
-# 🧩 Trabalho 1 --- Sudoku (Java)
+# 🧩 Trabalho 1 - Sudoku (Java)
 
 ## 📘 Descrição
 
